@@ -5,7 +5,7 @@
 ![Ratify logo](https://imgur.com/o2l8trs.png)
 Welcome to the Ratify!
 
-The exotic pet owner's companion app- not just for rats!
+The exotic pet owner's companion app - not just for rats!
 
 Ratify is a mobile app created to allow ease of use for owners of exotic pets to quickly and easily:
 
@@ -18,14 +18,16 @@ Ratify is a mobile app created to allow ease of use for owners of exotic pets to
 ![Screenshots 1](https://imgur.com/3KvQ1Wx.png)
 
 ## Meet the team!
-- Ev https://github.com/EvSivtsova
-- Arsenii https://github.com/Agabov123
-- Delphine https://github.com/delphiine
-- Joe https://github.com/Joseph-ER
+- [Ev](https://github.com/EvSivtsova)
+- [Arsenii](https://github.com/Agabov123)
+- [Delphine](https://github.com/delphiine)
+- [Joe](https://github.com/Joseph-ER)
+
+This is our final project at the Makers Academy. Following the completion of the team project, I refactored the code and added tests to increase test coverage. :construction: The original project can be found [here](https://github.com/EvSivtsova/ratify.git).
 
 ## Installation
 
-You will either need the application for Expo on your phone (Android or IOS) from the link below
+**You will either need the application for Expo on your phone (Android or IOS) from the link below**
 ---
 Or you will need to install Xcode on a Mac OS device. with 
 ```
